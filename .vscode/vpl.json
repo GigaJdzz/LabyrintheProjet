@@ -1,0 +1,14 @@
+{
+  "useWebsocket": true,
+  "useUnsecureURL": false,
+  "hideInformations": false,
+  "dontRefreshInfos": false,
+  "protocol": "https",
+  "hostname": "moodle.caseine.org",
+  "path": "/mod/vpl/webservice.php",
+  "vplId": "50821",
+  "personalToken": "8ef8dea2c5b74229e4c9242984088caa",
+  "files": [
+    "tp.py"
+  ]
+}
